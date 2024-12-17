@@ -1,0 +1,19 @@
+# Ignore log files
+*.log
+
+# Ignore temporary or list files
+*.lst
+
+# Ignore compressed files
+*.zip
+
+# Ignore configuration files (adjust if needed)
+*.ini
+
+# Keep other important file types
+!.txt
+!.html
+!.css
+!.js
+!.png
+!.gif
